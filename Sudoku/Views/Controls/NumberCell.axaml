@@ -1,0 +1,16 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch"
+             Background="White"
+             x:Class="Sudoku.Views.Controls.NumberCell">
+    <Border BorderBrush="DarkGray" BorderThickness="1">
+        <TextBlock
+            Name="NumberTextBlock"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontSize="32"
+            FontFamily="Arial" />
+    </Border>
+</UserControl>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Sudoku/Views/Controls/BigCell.axaml" value="Sudoku/Sudoku.csproj" />
+        <entry key="Sudoku/Views/Controls/NumberCell.axaml" value="Sudoku/Sudoku.csproj" />
+        <entry key="Sudoku/Views/GameView.axaml" value="Sudoku/Sudoku.csproj" />
+        <entry key="Sudoku/Views/LevelChooseView.axaml" value="Sudoku/Sudoku.csproj" />
+        <entry key="Sudoku/Views/LevelChooseWindow.axaml" value="Sudoku/Sudoku.csproj" />
+        <entry key="Sudoku/Views/MainWindow.axaml" value="Sudoku/Sudoku.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
